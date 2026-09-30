@@ -25,3 +25,5 @@ venv.bak/
 **/.DS_Store
 .history
 *.sqlite3
+
+*.sqlite3
